@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yasamin! Welcome to my Github page!
 
-- 🌱 I am a Master of Science in Applied Computing student at the Unviersity of Toronto. 
+- 🌱 I am a Master of Science in Applied Computing student in the Department of Computer Science at the University of Toronto. 
 
 - ⚡I have worked on a Generative AI project utilizing complex deep-learning architectures. I have strong research and coding expertise through my work at Computer Science labs at the University of Toronto. I developed Python packages for machine learning models that navigated hyperparameter tuning and cancer detection. I have also developed a full stack educational web app for kindergarten students. I am interested in the applications of Artificial Intelligence in Healthcare. I am currently a teaching assistant for CSC301 Introduction to Software Engineering at the University of Toronto. 
 - 📫 How to reach me: yasamin.nourijelyani@mail.utoronto.ca
